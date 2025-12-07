@@ -1,7 +1,27 @@
 # Phumipat Numkham
-Project Management · Business Intelligence · AI Automation · Data Analytics
 
-Bangkok, Thailand · phumipat.numkham@gmail.com · www.linkedin.com/in/phumipat-numkham-709961265
+<p align="center">
+  <img src=![profile_resized]" alt="Phumipat Numkham" width="160" style="border-radius:50%; clip-path: circle();">
+</p>
+
+<p align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue" alt="Resume">
+  </a>![profile_resized](https://github.com/user-attachments/assets/02b1dcaa-166a-42eb-994e-9437ef1ad0da)
+
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-lightgrey" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub">
+  </a>
+</p>
+
+
+I am a Project & Data professional focusing on **Business Intelligence, AI automation, and process transformation** in e-commerce.  
+Over the past 2+ years at **Shopee Thailand**, I’ve led high-impact initiatives in data analytics, project management, and AI-driven workflow automation to reduce legal risk, improve productivity, and support better decisions.
+
+email – your.email@example.com
 
 ---
 
