@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://phumipat-numkham.github.io/RESUME.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-blue" alt="Resume">
   </a>
   <a href="https://www.linkedin.com/in/phumipat-numkham-709961265" target="_blank">
