@@ -1,9 +1,8 @@
 # Phumipat Numkham
 
 <p align="center">
-  <img src="profile.jpg" alt="Phumipat Numkham" width="160" style="border-radius:50%; clip-path: circle();">
+  <img src="profile_circle.png" alt="Phumipat Numkham" width="160">
 </p>
-
 
 <p align="center">
   <a href="https://phumipat-numkham.github.io/RESUME.pdf" target="_blank">
