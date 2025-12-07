@@ -1,7 +1,7 @@
 # Phumipat Numkham
 
 <p align="center">
-  <img src="images/profile.jpg" alt="Phumipat Numkham" width="160" style="border-radius:50%; clip-path: circle();">
+  <img src="profile.jpg" alt="Phumipat Numkham" width="160" style="border-radius:50%; clip-path: circle();">
 </p>
 
 
