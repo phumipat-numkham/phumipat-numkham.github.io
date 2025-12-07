@@ -85,8 +85,6 @@ focus on putting full effort into the present, even when short-term changes are 
 ## 🚀 Highlight Initiative – Risk Guardian (GPT AI IPR Detection)
 
 ### Project Risk Guardian: GPT AI Intellectual Property Detection  
-**Role: Core Contributor / Project Owner (within team)**  
-
 - Designed and implemented GPT-based AI solutions to detect **unauthorized and counterfeit products** using both **text and image signals**.
 - Helped build an automated IPR screening pipeline for high-risk listings.
 - The project:
