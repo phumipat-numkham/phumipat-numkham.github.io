@@ -1,7 +1,8 @@
-# Phumipat Numkham
+<h1 align="center">Phumipat Numkham</h1>
+<h3 align="center">Project Management · Business Intelligence · AI Automation</h3>
 
 <p align="center">
-  <img src="profile_circle.png" alt="Phumipat Numkham" width="160">
+  <img src="profile_circle.png" alt="Profile picture of Phumipat Numkham" width="160" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 </p>
 
 <p align="center">
@@ -16,10 +17,12 @@
   </a>
 </p>
 
-I am a Project & Data professional focusing on **Business Intelligence, AI automation, and process transformation** in e-commerce.  
-Over the past 2+ years at **Shopee Thailand**, I’ve led high-impact initiatives in data analytics, project management, and AI-driven workflow automation to reduce legal risk, improve productivity, and support better decisions.
+<br/>
 
-email – your.email@example.com
+I am a Project &amp; Data professional focusing on <strong>Business Intelligence, AI automation, and process transformation</strong> in e-commerce.  
+Over the past 2+ years at <strong>Shopee Thailand</strong>, I’ve led high-impact initiatives in data analytics, project management, and AI-driven workflow automation to reduce legal risk, improve productivity, and support better decisions.
+
+**Email:** <a href="mailto:phumipat.numkham@gmail.com">phumipat.numkham@gmail.com</a>
 
 ---
 
