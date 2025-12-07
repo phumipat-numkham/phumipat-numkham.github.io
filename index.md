@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/phumipat-numkham-709961265" target="_blank">
-    <img src="[RESUME.pdf](https://github.com/user-attachments/files/24014342/RESUME.pdf)" alt="Resume">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue" alt="Resume">
   </a>
-  <a href="www.linkedin.com/in/phumipat-numkham-709961265" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/phumipat-numkham-709961265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-lightgrey" alt="LinkedIn">
   </a>
   <a href="https://github.com/phumipat-numkham" target="_blank">
