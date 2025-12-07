@@ -71,7 +71,8 @@ focus on putting full effort into the present, even when short-term changes are 
 <p align="center">
   <img src="winner project" alt="Shopee Award" width="400">
 </p>
-  
+
+
 - ⭐ **The 2025 Department Value Star Award**  
   - Nominated by management for delivering outstanding performance, taking initiative, and consistently exceeding expectations.
 
@@ -104,8 +105,12 @@ Automated the classification of brand-owner complaint statements for new IPR cas
 
 - Built an AI Agent (via n8n) to **read complaint text**, identify key signals (e.g. *fake, counterfeit, copy*), and classify cases into 4 IP types.
 - Continuously refined prompts and logic to improve model behavior.
-- Achieved **>99% classification accuracy**, significantly reducing human misclassification.
-- Eliminated ~2 hours/day of repetitive manual review for agents.
+- Achieved **97% classification accuracy**, significantly reducing human misclassification.
+- Eliminated ~4 hours/day of repetitive manual review for agents.
+
+<p align="center">
+  <img src="n8n ipr" alt="Shopee Award" style="width:80%; max-width:800px;">
+</p>
 
 ---
 
@@ -121,18 +126,9 @@ Developed a **three-layer AI workflow** to flag potential counterfeit listings a
 - Streamlined a previously manual, labor-intensive process.
 - Improved **detection speed, consistency, and coverage** for high-risk items.
 
----
-
-### 3. AI-Powered Mall Shop Onboarding System
-
-Designed an AI-supported decision pipeline to pre-screen new shops applying for mall-level onboarding.
-
-- Performed **entity extraction** from unstructured text (brand, company, product info).
-- Implemented **IP/trademark match scoring** using public and internal references.
-- Used **image analysis** to flag products visually similar to official brand catalogs.
-- Combined multiple signals into a **final risk score and decision outcome**:
-  - **Onboard** · **Need Review** · **Reject**
-- Reduced manual review time, improved compliance, and provided a clear **audit trail** for decisions.
+<p align="center">
+  <img src="n8n ctf" alt="Shopee Award" style="width:80%; max-width:800px;">
+</p>
 
 ---
 
