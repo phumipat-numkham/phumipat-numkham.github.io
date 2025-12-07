@@ -11,7 +11,7 @@
   <a href="www.linkedin.com/in/phumipat-numkham-709961265" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-lightgrey" alt="LinkedIn">
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/phumipat-numkham" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub">
   </a>
 </p>
