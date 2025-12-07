@@ -37,16 +37,16 @@ Over the past 2+ years at **Shopee Thailand**, I have worked across:
 - **Productivity Optimization & Workload Forecasting**
 - **AI Automation using n8n and LLM-based Agents**
 
-My core work principle is:  
+My work MOTTO: 
 > **“Do your best and trust the process.”**  
-I focus on delivering my best effort in the present, trusting that consistent work and a strong process will generate meaningful long-term results.
+focus on putting full effort into the present, even when short-term changes are not immediately visible. Over time, the results always reward those who stay consistent, committed, and believe in the process.
 
 ---
 
 ## 🏢 Experience
 
 ### Shopee Thailand  
-**Associate – Business Intelligence & AI Project Owner (Listing & IPR Operations)**  
+**Associate, Listing & Content Project Management Executive**  
 *2023 – Present*
 
 - Act as the main **Business Intelligence partner** for the Listing team, supporting data-driven decisions with SQL, R, Power BI, and ad hoc analysis.
@@ -60,6 +60,25 @@ I focus on delivering my best effort in the present, trusting that consistent wo
 - Process transformation & automation  
 - IPR and counterfeit risk mitigation  
 - Cross-functional project execution
+
+---
+
+## 🏆 Awards & Recognition
+
+- 🥇 **Shopee Outstanding Project Awards 2025 – Winner**  
+  - For **Project Risk Guardian: GPT AI Intellectual Property Detection**
+
+<p align="center">
+  <img src="winner project" alt="Shopee Award" width="400">
+</p>
+  
+- ⭐ **The 2025 Department Value Star Award**  
+  - Nominated by management for delivering outstanding performance, taking initiative, and consistently exceeding expectations.
+
+<p align="center">
+  <img src="value star main slide" alt="Award 1" width="300" style="margin-right: 10px;">
+  <img src="value star me" alt="Award 2" width="300">
+</p>
 
 ---
 
@@ -116,15 +135,6 @@ Designed an AI-supported decision pipeline to pre-screen new shops applying for 
 - Combined multiple signals into a **final risk score and decision outcome**:
   - **Onboard** · **Need Review** · **Reject**
 - Reduced manual review time, improved compliance, and provided a clear **audit trail** for decisions.
-
----
-
-## 🏆 Awards & Recognition
-
-- 🥇 **Shopee Outstanding Project Awards 2025 – Winner**  
-  - For **Project Risk Guardian: GPT AI Intellectual Property Detection**
-- ⭐ **The 2025 Department Value Star Award**  
-  - Nominated by management for delivering outstanding performance, taking initiative, and consistently exceeding expectations.
 
 ---
 
