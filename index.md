@@ -164,18 +164,18 @@ Designed an AI-supported decision pipeline to pre-screen new shops applying for 
 
 ## 🎓 Education
 
-**MBA – Management Information Systems (MIS)**  
+**MBA – Management Information Systems (MIS)**                                                                                  
 National Institute of Development Administration (NIDA)
-2023
-
+2021-2023
 - Foundation in business, IT systems, and data-driven decision-making.
 - Participated in **SAS Hackathon** using data mining tools to build clustering models for marketing campaign targeting, following the **CRISP-DM** framework.
+
+**Bachelor of Science - Sociology and Anthropology**                                                                                  
+Chiang Mai University
+2016-2020
 
 ---
 
 ## 📫 Contact
 
-- **Email:** phumipat.numkham@gmail.com  
-- **LinkedIn:** www.linkedin.com/in/phumipat-numkham-709961265  
-
-If you are interested in **Project Management, AI automation, Data Analytics, or E-commerce transformation**, I would be happy to connect.
+- **Phone number:** 0821739897
