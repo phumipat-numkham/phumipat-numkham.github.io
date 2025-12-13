@@ -135,10 +135,10 @@ Automated the classification of brand-owner complaint statements for IPR cases, 
 - Achieved **97% classification accuracy** with 2–3 seconds per case (vs. ~70 seconds manually).
 
 **Impact**
-- 100% replacement of agent IP Type classification
-- Eliminated ~4 hours/day of manual review work
-- Enabled agents to focus entirely on higher-value exception handling and quality control
-- Improved consistency, compliance, and auditability by removing human bias and fatigue
+- **100% replacement of agent IP Type classification**
+- Eliminated **~4 hours/day** of manual review work
+- Enabled agents to focus entirely on **higher-value exception handling and quality control**
+- Improved **consistency, compliance, and auditability** by removing human bias and fatigue
 
 <p align="center">
   <img src="n8n ipr" alt="Shopee Award" style="width:80%; max-width:800px;">
