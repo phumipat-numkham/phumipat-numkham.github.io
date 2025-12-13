@@ -78,7 +78,7 @@ focus on putting full effort into the present, even when short-term changes are 
 
 <p align="center">
   <img src="value star certificate.png" alt="Award 1" width="300" style="margin-right: 10px;">
-  <img src="value star solo" alt="Award 2" width="300">
+  <img src="DVSA5177.JPG" alt="Award 2" width="300">
 </p>
 
 ---
