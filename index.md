@@ -188,15 +188,17 @@ Developed a **three-layer AI workflow** to flag potential counterfeit listings a
 
 ## 🎓 Education
 
-**MBA – Management Information Systems (MIS)**                                                                                  
-National Institute of Development Administration (NIDA)
-2021-2023
-- Foundation in business, IT systems, and data-driven decision-making.
-- Participated in **SAS Hackathon** using data mining tools to build clustering models for marketing campaign targeting, following the **CRISP-DM** framework.
+**Master of Business Administration (MBA) – Management Information Systems (MIS)**                                                                                  
+National Institute of Development Administration (NIDA) | 2021 – 2023
+- Comprehensive MBA training covering **Finance, Accounting, Marketing, Operations, and Human Resource Management**, with a strong emphasis on d**ata-driven business strategy**.
+- Strong foundation in **analytics, system design, and technology** enabled business processes.
+- Applied structured data methodologies through **SAS Hackathon**, developing **clustering and segmentation models** for marketing campaign targeting using the **CRISP-DM framework**.
 
-**Bachelor of Science - Sociology and Anthropology**                                                                                  
-Chiang Mai University
-2016-2020
+**Bachelor of Science – Sociology and Anthropology**                                                                                  
+Chiang Mai University | 2016 – 2020
+- Built a strong foundation in **human behavior analysis, social research, and qualitative–quantitative methods**.
+- Developed critical thinking and research skills that support **user centric analysis, stakeholder understanding, and business problem framing**.
+- Strengthened analytical reasoning and communication skills applicable to **data interpretation and project leadership**.
 
 ---
 
