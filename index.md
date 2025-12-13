@@ -90,7 +90,6 @@ focus on putting full effort into the present, even when short-term changes are 
 
 - 🌟 **Shopee Employer Branding Feature – Shopee Careers TH**
   - Employee Story Highlight: Selected to represent Shopee Thailand on the Shopee Careers TH social media platform, sharing my personal journey and experience working at Shopee.
-The feature focused on:
 
 <p align="center">
   <a href="https://www.instagram.com/p/DSH1T_GiWrz/" target="_blank">
