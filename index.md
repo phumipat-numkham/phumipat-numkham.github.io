@@ -123,6 +123,10 @@ focus on putting full effort into the present, even when short-term changes are 
 
 This is one of the initiatives I am most proud of, as it delivered both **strong business impact** and **structural risk reduction** for the platform.
 
+<p align="center">
+  <img src="BI model workflow" alt="Shopee Award" width="400">
+</p>
+
 ---
 
 ## 🤖 AI & Automation Projects
