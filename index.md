@@ -131,7 +131,7 @@ This is one of the initiatives I am most proud of, as it delivered both **strong
 
 ## 🤖 AI & Automation Projects
 
-### 1. Listing IPR AI Classification System (n8n + NLP)
+### 1. Listing IPR AI Classification System
 
 Automated the classification of brand-owner complaint statements for IPR cases, **fully replacing manual agent decision-making**.
 - Designed and built an **AI Agent (n8n + NLP)** to read complaint text and classify cases into **Counterfeit, Trademark, Patent, or Copyright** using keyword and contextual analysis.
