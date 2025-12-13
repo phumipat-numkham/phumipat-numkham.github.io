@@ -77,8 +77,14 @@ focus on putting full effort into the present, even when short-term changes are 
   - Nominated by management for delivering outstanding performance, taking initiative, and consistently exceeding expectations.
 
 <p align="center">
-  <img src="value star certificate.png" alt="Award 1" width="300" style="margin-right: 10px;">
-  <img src="DVSA5177.JPG" alt="Award 2" width="300">
+  <img src="value star certificate.png"
+       alt="Value Star Certificate"
+       width="300"
+       style="margin-right: 10px; vertical-align: middle;">
+  <img src="DVSA5177.JPG"
+       alt="Value Star Award Photo"
+       width="300"
+       style="vertical-align: middle;">
 </p>
 
 ---
