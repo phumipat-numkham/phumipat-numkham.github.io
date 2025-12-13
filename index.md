@@ -190,7 +190,7 @@ Developed a **three-layer AI workflow** to flag potential counterfeit listings a
 
 **Master of Business Administration (MBA) – Management Information Systems (MIS)**                                                                                  
 National Institute of Development Administration (NIDA) | 2021 – 2023
-- Comprehensive MBA training covering **Finance, Accounting, Marketing, Operations, and Human Resource Management**, with a strong emphasis on d**ata-driven business strategy**.
+- Comprehensive MBA training covering **Finance, Accounting, Marketing, Operations, and Human Resource Management**, with a strong emphasis on **data-driven business strategy**.
 - Strong foundation in **analytics, system design, and technology** enabled business processes.
 - Applied structured data methodologies through **SAS Hackathon**, developing **clustering and segmentation models** for marketing campaign targeting using the **CRISP-DM framework**.
 
