@@ -77,7 +77,7 @@ focus on putting full effort into the present, even when short-term changes are 
   - Nominated by management for delivering outstanding performance, taking initiative, and consistently exceeding expectations.
 
 <p align="center">
-  <img src="value star main slide" alt="Award 1" width="300" style="margin-right: 10px;">
+  <img src="value star certificate.png" alt="Award 1" width="300" style="margin-right: 10px;">
   <img src="value star me" alt="Award 2" width="300">
 </p>
 
