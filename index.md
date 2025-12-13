@@ -6,14 +6,19 @@
 </p>
 
 <p align="center">
+  <!-- Resume (PDF - Red) -->
   <a href="https://phumipat-numkham.github.io/RESUME.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-blue" alt="Resume">
+    <img src="https://img.shields.io/badge/Resume-PDF-E02F2F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
+
+  <!-- LinkedIn (Official Blue) -->
   <a href="https://www.linkedin.com/in/phumipat-numkham-709961265" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-lightgrey" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
+  <!-- GitHub (Official Black) -->
   <a href="https://github.com/phumipat-numkham" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
