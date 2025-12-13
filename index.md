@@ -152,15 +152,18 @@ Automated the classification of brand-owner complaint statements for IPR cases, 
 
 ### 2. AI-Driven Counterfeit Item Detection System
 
-Developed a **three-layer AI workflow** to flag potential counterfeit listings automatically.
-
-- **NLP Layer:** Detects brand names and patterns from noisy item titles and descriptions.  
-- **Computer Vision Layer:** Recognizes logos and brand imagery from cover images.  
-- **Business Rules Layer:** Compares prices against brand price floors (e.g., 50% threshold) to determine risk.  
+Automated counterfeit item detection to **replace manual screening and close gaps left by existing internal models**.
+- Designed and implemented a three-layer AI detection system to identify counterfeit listings end-to-end:
+  - **AI Agent 1 – Text Brand Detection:** Detects brand names in titles and descriptions, including misspellings and Thai language variations.  
+  - **AI Agent 2 – Image Logo Detection:** Identifies brand logos in product images even when brand names are not explicitly stated in text. 
+  - **AI Agent 3 – Price Anomaly Check:** Flags listings priced ≥50% below authentic brand benchmarks as high counterfeit risk.
+- Integrated outputs from all agents into a single automated decision flow to minimize reliance on manual review.
 
 **Impact:**
-- Streamlined a previously manual, labor-intensive process.
-- Improved **detection speed, consistency, and coverage** for high-risk items.
+- **100% automated counterfeit screening** for high-risk listings
+- Significantly** reduced manual agent review dependency** and review latency
+- Improved **detection coverage and consistency**, addressing blind spots in the existing internal model
+- Reduced risk of counterfeit items remaining live due to **human oversight or judgment error**
 
 <p align="center">
   <img src="n8n ctf" alt="Shopee Award" style="width:80%; max-width:800px;">
