@@ -129,12 +129,16 @@ This is one of the initiatives I am most proud of, as it delivered both **strong
 
 ### 1. Listing IPR AI Classification System (n8n + NLP)
 
-Automated the classification of brand-owner complaint statements for new IPR cases.
+Automated the classification of brand-owner complaint statements for IPR cases, **fully replacing manual agent decision-making**.
+- Designed and built an **AI Agent (n8n + NLP)** to read complaint text and classify cases into **Counterfeit, Trademark, Patent, or Copyright** using keyword and contextual analysis.
+- Led **prompt design, rule definition, and iterative accuracy tuning** to ensure consistent and compliant decisions.
+- Achieved **97% classification accuracy** with 2–3 seconds per case (vs. ~70 seconds manually).
 
-- Built an AI Agent (via n8n) to **read complaint text**, identify key signals (e.g. *fake, counterfeit, copy*), and classify cases into 4 IP types.
-- Continuously refined prompts and logic to improve model behavior.
-- Achieved **97% classification accuracy**, significantly reducing human misclassification.
-- Eliminated ~4 hours/day of repetitive manual review for agents.
+**Impact**
+- 100% replacement of agent IP Type classification
+- Eliminated ~4 hours/day of manual review work
+- Enabled agents to focus entirely on higher-value exception handling and quality control
+- Improved consistency, compliance, and auditability by removing human bias and fatigue
 
 <p align="center">
   <img src="n8n ipr" alt="Shopee Award" style="width:80%; max-width:800px;">
