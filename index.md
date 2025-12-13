@@ -87,6 +87,13 @@ focus on putting full effort into the present, even when short-term changes are 
        style="vertical-align: middle;">
 </p>
 
+
+- 🌟 **Shopee Employer Branding Feature – Shopee Careers TH**
+  - Employee Story Highlight: Selected to represent Shopee Thailand on the Shopee Careers TH social media platform, sharing my personal journey and experience working at Shopee.
+The feature focused on:
+
+
+
 ---
 
 ## 🚀 Highlight Initiative – Risk Guardian (GPT AI IPR Detection)
