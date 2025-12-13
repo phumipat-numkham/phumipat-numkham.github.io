@@ -7,7 +7,7 @@
 
 <p align="center">
   <!-- Resume (PDF - Red) -->
-  <a href="https://phumipat-numkham.github.io/RESUME.pdf" target="_blank">
+  <a href="https://phumipat-numkham.github.io/RESUME (1).pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-E02F2F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
 
