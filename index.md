@@ -161,7 +161,7 @@ Automated counterfeit item detection to **replace manual screening and close gap
 
 **Impact:**
 - **100% automated counterfeit screening** for high-risk listings
-- Significantly** reduced manual agent review dependency** and review latency
+- Significantly **reduced manual agent review dependency** and review latency
 - Improved **detection coverage and consistency**, addressing blind spots in the existing internal model
 - Reduced risk of counterfeit items remaining live due to **human oversight or judgment error**
 
