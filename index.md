@@ -169,6 +169,8 @@ Automated counterfeit item detection to **replace manual screening and close gap
   <img src="n8n ctf" alt="Shopee Award" style="width:80%; max-width:800px;">
 </p>
 
+---
+
 ### 3. AI-Powered Mall Shop Onboarding System
 
 Automated Shopee Mall seller onboarding by replacing manual agent review of **LOA, Business License, Trademark, TISI, and FDA documents**.
