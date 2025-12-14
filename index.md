@@ -169,23 +169,19 @@ Automated counterfeit item detection to **replace manual screening and close gap
   <img src="n8n ctf" alt="Shopee Award" style="width:80%; max-width:800px;">
 </p>
 
-### 3. AI-Driven Counterfeit Item Detection System
+### 3. AI-Powered Mall Shop Onboarding System
 
-Automated counterfeit item detection to **replace manual screening and close gaps left by existing internal models**.
-- Designed and implemented a three-layer AI detection system to identify counterfeit listings end-to-end:
-  - **AI Agent 1 – Text Brand Detection:** Detects brand names in titles and descriptions, including misspellings and Thai language variations.  
-  - **AI Agent 2 – Image Logo Detection:** Identifies brand logos in product images even when brand names are not explicitly stated in text. 
-  - **AI Agent 3 – Price Anomaly Check:** Flags listings priced ≥50% below authentic brand benchmarks as high counterfeit risk.
-- Integrated outputs from all agents into a single automated decision flow to minimize reliance on manual review.
+Automated Shopee Mall seller onboarding by replacing manual agent review of **LOA, Business License, Trademark, TISI, and FDA documents**.
+- Built an **AI system to read and validate PDF documents**, detect edited/fake files, and match seller/brand names against official trademark databases (ex.WIPO,DIP) using text and image analysis.
+- Applied rule-based logic to evaluate **Brand Owner vs. Distributor** eligibility and onboarding decisions.
 
 **Impact:**
-- **100% automated counterfeit screening** for high-risk listings
-- Significantly **reduced manual agent review dependency** and review latency
-- Improved **detection coverage and consistency**, addressing blind spots in the existing internal model
-- Reduced risk of counterfeit items remaining live due to **human oversight or judgment error**
+- **100% replacement** of agent manual onboarding review
+- Reduced processing time from **~1 week → within 1 day**
+- Improved onboarding quality by preventing counterfeit or unauthorized sellers due to human error
 
 <p align="center">
-  <img src="n8n ctf" alt="Shopee Award" style="width:80%; max-width:800px;">
+  <img src="n8n AI project mall" alt="Shopee Award" style="width:80%; max-width:800px;">
 </p>
 
 ---
