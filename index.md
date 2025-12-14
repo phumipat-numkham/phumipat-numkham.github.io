@@ -169,6 +169,25 @@ Automated counterfeit item detection to **replace manual screening and close gap
   <img src="n8n ctf" alt="Shopee Award" style="width:80%; max-width:800px;">
 </p>
 
+### 3. AI-Driven Counterfeit Item Detection System
+
+Automated counterfeit item detection to **replace manual screening and close gaps left by existing internal models**.
+- Designed and implemented a three-layer AI detection system to identify counterfeit listings end-to-end:
+  - **AI Agent 1 – Text Brand Detection:** Detects brand names in titles and descriptions, including misspellings and Thai language variations.  
+  - **AI Agent 2 – Image Logo Detection:** Identifies brand logos in product images even when brand names are not explicitly stated in text. 
+  - **AI Agent 3 – Price Anomaly Check:** Flags listings priced ≥50% below authentic brand benchmarks as high counterfeit risk.
+- Integrated outputs from all agents into a single automated decision flow to minimize reliance on manual review.
+
+**Impact:**
+- **100% automated counterfeit screening** for high-risk listings
+- Significantly **reduced manual agent review dependency** and review latency
+- Improved **detection coverage and consistency**, addressing blind spots in the existing internal model
+- Reduced risk of counterfeit items remaining live due to **human oversight or judgment error**
+
+<p align="center">
+  <img src="n8n ctf" alt="Shopee Award" style="width:80%; max-width:800px;">
+</p>
+
 ---
 
 ## 🧠 Skills
